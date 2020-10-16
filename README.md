@@ -13,4 +13,4 @@
 
 ###  备注
 
-SQL文件自己整理，数据来自(GitHub)[https://github.com/unit-studio/manual/blob/37c063f844d1d027760ac7eb2f063c55e4d84509/DataBaseRecords/BasicData/Country.md]整理的EXCEL文件。
+SQL文件自己整理，数据来自[GitHub](https://github.com/unit-studio/manual/blob/37c063f844d1d027760ac7eb2f063c55e4d84509/DataBaseRecords/BasicData/Country.md)整理的EXCEL文件。
